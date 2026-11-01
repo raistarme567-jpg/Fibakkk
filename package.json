@@ -1,0 +1,21 @@
+{
+  "name": "project-fiba-backend",
+  "version": "3.0.0",
+  "description": "Project Fiba Independent Cloud Backend with SQLite, Multer File Uploads, and Flame API Bridge",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1",
+    "sqlite3": "^5.1.7"
+  }
+}
