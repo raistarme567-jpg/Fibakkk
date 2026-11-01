@@ -1,0 +1,6 @@
+{
+  "name": "Flame Cloud & Fiba Cloud",
+  "description": "Enterprise offline-first cloud application ecosystem featuring Flame Cloud User Workspace, Admin Synchronization Panel, Flame F Store, Project Builder, Security Center, and Flame AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
